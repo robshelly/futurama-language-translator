@@ -1,12 +1,12 @@
 # Futurama Translator
 
-The Futurama Translator translates from English to Nibblonian and Nibblonia.  
+The Futurama Translator translates from English to Nibblonian and Nibblonian to English.  
 
 ## Current Version
 Translation is functional, GUI unfinished.
 
 ## Background
-Nibblonian is one of two 'alien' language featured in the the TV show Futurama. They are easter eggs or  background joke, appearing in the background of many scenes in the form of graffiti, on shop signs etc. Only by translating the the language can fans understand the jokes.
+Nibblonian is one of two 'alien' languages featured in the the TV show Futurama. They are easter eggs or  background joke, appearing in the background of many scenes in the form of graffiti, on shop signs etc. Only by translating the the language can fans understand the jokes.
 
 ## Nibblonian
 Nibblonian (also referred to as AL2 in some fan material) is the second of the alien languages. Technologically not a language, it is in fact an encryption of the original English text.
@@ -38,6 +38,3 @@ Translate "bcd":
 ## Packages
 * Princeton Standard Library
 * Google Guava
-
-
-
